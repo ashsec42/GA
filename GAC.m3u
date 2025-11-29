@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-name="Prudent" tvg-logo="https://github.com/ashsec42/GA/blob/main/logos/pru.png?raw=true" group-title="Goa", Prudent
 https://prudentmcdn.rixcast.com/prudentm.m3u8
 
