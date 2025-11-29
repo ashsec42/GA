@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Prudent" tvg-logo="https://github.com/ashsec42/GA/blob/main/logos/pru.png?raw=true" group-title="Goa", Prudent
+https://prudentmcdn.rixcast.com/prudentm.m3u8
+
+#EXTINF:-1 tvg-name="IN GOA NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/In_Goa_News.jpg" group-title="Goa", IN GOA NEWS
+https://satpros.tech/hls/ingoanews/ingoanews_live_stream/index.m3u8
+
+#EXTINF:-1 tvg-name="Prime TV" tvg-logo="https://www.primetvgoa.in/wp-content/uploads/2022/11/primetv-mobile-app-e1716881809302.jpg" group-title="Goa", Prime TV
+https://primetvgoa.rixcast.com/primegoa.m3u8
